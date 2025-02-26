@@ -1,5 +1,5 @@
 # Life-Expectancy-Analysis
-This project explores the relationship between key socioeconomic factors and life expectancy. Using Exploratory Data Analysis (EDA) and regression models, we analyze how variables like GDP per capita, Polio immunization rates, and years of schooling influence life expectancy across countries. Additionally, we implement What-If Scenarios to simulate how changes in these variables might affect life expectancy outcomes.
+This project explores the relationship between key socioeconomic factors and life expectancy. Using Exploratory Data Analysis (EDA) and regression models, we analyze how variables like GDP per capita, Polio immunization rates, years of schooling, and Infant Deaths influence life expectancy across countries. Additionally, we implement What-If Scenarios to simulate how changes in these variables might affect life expectancy outcomes.
 
 ## 📊 Project Workflow
 1. Exploratory Data Analysis (EDA)
