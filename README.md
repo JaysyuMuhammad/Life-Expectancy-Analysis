@@ -28,7 +28,8 @@ This project explores the relationship between key socioeconomic factors and lif
    - Analyze how these changes impact predicted life expectancy.
 
 ## 📈 Key Insights
-  - GDP per capita and Schooling have the strongest positive correlation with life expectancy.
+  - GDP per capita, Polio, and Schooling have the strongest positive correlation with life expectancy.
+  - Infant Death, Adult morality, and Incidents HIV have the strongest negative correlation with life expectancy
   - Simulated increases in these variables suggest higher life expectancy, while decreases correlate with a drop in predicted outcomes.
 
 ## 🧰 Technologies Used
