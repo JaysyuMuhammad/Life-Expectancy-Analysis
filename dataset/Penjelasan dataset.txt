@@ -1,0 +1,20 @@
+- Country (object): Name of the country.
+- Region (object): Geographic region of the country.
+- Year (float64): Year of the data (averaged or interpolated).
+- Infant_deaths (float64): Number of infant deaths per 1000 live births.
+- Under_five_deaths (float64): Number of deaths of children under five per 1000 live births.
+- Adult_mortality (float64): Adult mortality rate per 1000 population.
+- Alcohol_consumption (float64): Per capita alcohol consumption in liters of pure alcohol.
+- Hepatitis_B (float64): Percentage of immunization coverage for Hepatitis B.
+- Measles (float64): Number of reported measles cases.
+- BMI (float64): Average Body Mass Index of the population.
+- Polio (float64): Percentage of immunization coverage for polio.
+- Diphtheria (float64): Percentage of immunization coverage for diphtheria.
+- Incidents_HIV (float64): Number of new HIV infections per 1000 uninfected population.
+- GDP_per_capita (float64): Gross Domestic Product per capita in USD.
+- Population_mln (float64): Population size in millions.
+- Thinness_ten_nineteen_years (float64): Prevalence of thinness (BMI < 18.5) among adolescents aged 10-19.
+- Thinness_five_nine_years (float64): Prevalence of thinness (BMI < 18.5) among children aged 5-9.
+- Schooling (float64): Average years of schooling.19
+- Economy_status (float64): Economic classification of the country (e.g., developing or developed).
+- Life_expectancy (float64): Average life expectancy in years.
